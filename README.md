@@ -16,7 +16,7 @@ Mon - session - recap + next assignment
 
 ## Try It
 
-[Spec as test](spec-as-test.md)
+[Spec as test](spec-as-test.md) and [recap](spec-as-test-recap.md)
 
 ## References
 
