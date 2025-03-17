@@ -16,6 +16,8 @@ Mon - session - recap + next assignment
 
 ## Try It
 
+[Modular well-named](small.md)
+
 [Spec as test](spec-as-test.md) and [recap](spec-as-test-recap.md)
 
 ## References
