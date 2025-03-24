@@ -12,7 +12,7 @@
 
 Static = analyze the code without running it.
 
-Mind the consistency
+Look at the results of the 'lint' job in your repository.
 
 ## Take away
 
