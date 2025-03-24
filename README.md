@@ -41,6 +41,11 @@ by Kent Beck, ISBN: 9780321146533
 >Good programmers write code that humans can understand.
 
 ---
+[Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/) by Michael C Feathers
+
+>Code without tests is bad code. It doesn’t matter how well written it is; it doesn’t matter how pretty or object-oriented...
+
+---
 [Code Complete, Second Edition](https://www.oreilly.com/library/view/code-complete-second/0735619670/) by Microsoft Press,
 ISBN: 0735619670
 
