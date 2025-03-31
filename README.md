@@ -16,7 +16,9 @@ Mon - session - recap + next assignment
 
 ## Try It
 
-[Fail on false positive](fail.md)
+[Pass the tests](pass.md)
+
+[Fail on false positive](fail.md) and [recap](fail-recap.md)
 
 [Modular well-named](small.md) and [recap](small-recap.md)
 
