@@ -16,6 +16,8 @@ Mon - session - recap + next assignment
 
 ## Try It
 
+[Reduce complexity](functional.md)
+
 [Pass the tests](pass.md)
 
 [Fail on false positive](fail.md) and [recap](fail-recap.md)
