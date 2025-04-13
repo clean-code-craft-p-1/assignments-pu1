@@ -16,6 +16,8 @@ Mon - session - recap + next assignment
 
 ## Try It
 
+[Extend and Refactor](extend-refactor.md)
+
 [Reduce complexity](functional.md) and [recap](functional-recap.md)
 
 [Pass the tests](pass.md)
