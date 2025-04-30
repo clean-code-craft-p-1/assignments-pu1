@@ -16,6 +16,8 @@ Mon - session - recap + next assignment
 
 ## Try It
 
+Assignments using C++ smart-pointers and lambdas: [Pass an image in C++](https://classroom.github.com/a/sBrgW2Zl), [Encapsulate the image](https://classroom.github.com/a/kZBy8U-3), [Reduce code](https://classroom.github.com/a/OGEK8l8r)
+
 [Extend and Refactor](extend-refactor.md)
 
 [Reduce complexity](functional.md) and [recap](functional-recap.md)
